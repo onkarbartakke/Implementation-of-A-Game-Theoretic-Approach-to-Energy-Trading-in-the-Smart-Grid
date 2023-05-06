@@ -1,0 +1,387 @@
+Output 1 : 
+
+Selected persons are 1 and 8
+
+Selected persons are 2 and 7
+
+Selected persons are 2 and 6
+
+Selected persons are 1 and 8
+
+Selected persons are 1 and 8
+
+Selected persons are 3 and 6
+
+ ******** Unit price for current Iteration is 24*********
+
+Net Demand : 339
+
+Net Supply : 395
+
+ ---------- Iteration 10 completed ----------
+
+ ---------- Iteration 11 started ----------
+
+Selected persons are 4 and 3
+
+ ******** Unit price for current Iteration is 30.5*********
+
+Net Demand : 205
+
+Net Supply : 23
+
+ ---------- Iteration 11 completed ----------
+
+ ---------- Iteration 12 started ----------
+
+Selected persons are 4 and 3
+
+ ******** Unit price for current Iteration is 30.5*********
+
+Net Demand : 205
+
+Net Supply : 50.5
+
+ ---------- Iteration 12 completed ----------
+
+ ---------- Iteration 13 started ---------- 
+
+Selected persons are 4 and 3
+
+ ******** Unit price for current Iteration is 30.5*********
+
+Net Demand : 205
+
+Net Supply : 43.15
+
+ ---------- Iteration 13 completed ----------
+
+ ---------- Iteration 14 started ----------
+
+Selected persons are 4 and 3
+
+ ******** Unit price for current Iteration is 30.5*********
+
+Net Demand : 205
+
+Net Supply : 40.7
+
+ ---------- Iteration 14 completed ----------
+
+Seller 0 supply : 16.5 |  Reservation price : 14
+
+Seller 1 supply : 10.5 |  Reservation price : 20
+
+Seller 2 supply : 9.5 |  Reservation price : 21
+
+Seller 3 supply : 9.5 |  Reservation price : 21
+
+Seller 4 supply : 4.5 |  Reservation price : 26
+
+
+**********************
+
+
+Buyer 0 demand : 57 |  Reservation price : 52
+
+Buyer 1 demand : 50 |  Reservation price : 44
+
+Buyer 2 demand : 45 |  Reservation price : 40
+
+Buyer 3 demand : 53 |  Reservation price : 35
+
+---------- The Program is Over ---------
+
+
+ Final Seller supplies are :
+16.5  10.5  9.5  9.5  4.5
+
+Final Unite Price is : 30.5
+
+
+Output 2 : 
+
+
+
+
+Selected persons are 1 and 8
+
+Selected persons are 0 and 8
+
+Selected persons are 3 and 8
+
+ ******** Unit price for current Iteration is 26.5*********
+
+Net Demand : 337
+
+Net Supply : 318
+
+ ---------- Iteration 32 completed ----------
+
+ ---------- Iteration 33 started ----------
+
+Selected persons are 4 and 8
+
+ ******** Unit price for current Iteration is 27*********
+
+Net Demand : 337
+
+Net Supply : 223
+
+ ---------- Iteration 33 completed ----------
+
+ ---------- Iteration 34 started ----------
+
+Selected persons are 5 and 7
+
+ ******** Unit price for current Iteration is 35.5*********
+
+Net Demand : 303
+
+Net Supply : 223.9
+
+ ---------- Iteration 34 completed ----------
+
+ ---------- Iteration 35 started ----------
+
+Selected persons are 6 and 6
+
+ ******** Unit price for current Iteration is 38*********
+
+Net Demand : 255
+
+Net Supply : 274.37
+
+ ---------- Iteration 35 completed ----------
+
+ ---------- Iteration 36 started ----------
+
+Selected persons are 6 and 5
+
+ ******** Unit price for current Iteration is 42*********
+
+Net Demand : 201
+
+Net Supply : 171.444
+
+ ---------- Iteration 36 completed ----------
+
+ ---------- Iteration 37 started ----------
+
+Selected persons are 6 and 5
+
+ ******** Unit price for current Iteration is 42*********
+
+Net Demand : 201
+
+Net Supply : 113.535
+
+ ---------- Iteration 37 completed ----------
+
+ ---------- Iteration 38 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 192.342
+
+ ---------- Iteration 38 completed ----------
+
+ ---------- Iteration 39 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 112.98
+
+ ---------- Iteration 39 completed ----------
+
+ ---------- Iteration 40 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 126.296
+
+ ---------- Iteration 40 completed ----------
+
+ ---------- Iteration 41 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 104.389
+
+ ---------- Iteration 41 completed ----------
+
+ ---------- Iteration 42 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 144.7
+
+ ---------- Iteration 42 completed ----------
+
+ ---------- Iteration 43 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 137.7
+
+ ---------- Iteration 43 completed ----------
+
+ ---------- Iteration 44 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 111.17
+
+ ---------- Iteration 44 completed ----------
+
+ ---------- Iteration 45 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 146.87
+
+ ---------- Iteration 45 completed ----------
+
+ ---------- Iteration 46 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 114.551
+
+ ---------- Iteration 46 completed ----------
+
+ ---------- Iteration 47 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 138.4
+
+ ---------- Iteration 47 completed ----------
+
+ ---------- Iteration 48 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 146.1
+
+ ---------- Iteration 48 completed ----------
+
+ ---------- Iteration 49 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 140.43
+
+ ---------- Iteration 49 completed ----------
+
+ ---------- Iteration 50 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 125.8
+
+ ---------- Iteration 50 completed ----------
+
+ ---------- Iteration 51 started ----------
+
+Selected persons are 7 and 5
+
+ ******** Unit price for current Iteration is 45*********
+
+Net Demand : 201
+
+Net Supply : 124.4
+
+ ---------- Iteration 51 completed ----------
+
+Seller 0 supply : 2.79 |  Reservation price : 14
+
+Seller 1 supply : 29 |  Reservation price : 16
+
+Seller 2 supply : 27 |  Reservation price : 18
+
+Seller 3 supply : 27 |  Reservation price : 18
+
+Seller 4 supply : 26 |  Reservation price : 19
+
+Seller 5 supply : 13 |  Reservation price : 32
+
+Seller 6 supply : 9 |  Reservation price : 36
+
+Seller 7 supply : 3 |  Reservation price : 42
+
+
+**********************
+
+
+Buyer 0 demand : 22 |  Reservation price : 60
+
+Buyer 1 demand : 37 |  Reservation price : 59
+
+Buyer 2 demand : 24 |  Reservation price : 59
+
+Buyer 3 demand : 31 |  Reservation price : 50
+
+Buyer 4 demand : 49 |  Reservation price : 49
+
+Buyer 5 demand : 38 |  Reservation price : 48
+
+---------- The Program is Over ---------
+
+
+ Final Seller supplies are :
+2.79  29  27  27  26  13  9  3  
+
+Final Unite Price is : 45
